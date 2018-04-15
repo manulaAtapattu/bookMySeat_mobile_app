@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/select_order"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ff99ccff"
+    android:orientation="vertical" >
+
+    <Button
+        android:id="@+id/btnConfirm"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@android:color/holo_blue_dark"
+        android:text="Confirm Table Order" />
+</LinearLayout>

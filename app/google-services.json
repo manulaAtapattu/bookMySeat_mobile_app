@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "160249582869",
+    "firebase_url": "https://semester5project.firebaseio.com",
+    "project_id": "semester5project",
+    "storage_bucket": "semester5project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:160249582869:android:a1f485e88a6587d1",
+        "android_client_info": {
+          "package_name": "com.bookmytable.codemaveriks.myapplication2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "160249582869-j0v4qvu1rvcoud1h5jl5bno6i4rgke40.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQLv3ZuQzwl9CbOD5-2a6DpZ4uVTu8VcY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
